@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Ms+Madi&display=swap');
+
+
+.par{
+    padding: 5vw;
+
+}
+
+body{
+    margin: 0px 60px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #edf5fc;
+    font-size: 30px;
+    color:#323031;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:bolder;
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    font-size: 5vh;
+}
